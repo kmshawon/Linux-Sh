@@ -1,4 +1,4 @@
-#!bim/bash
+#!/bim/bash
 
 
 #math Calculations
