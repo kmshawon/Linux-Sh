@@ -3,11 +3,12 @@
 #And Operator
 
 read -p "What is Your Age " Age
+read -p "Your Country  " Country
 
-if [[ $Age -le 17 && $Age -ge 0  ]]
+if [[ $Age -ge 17 && $Country == "ban" ]]
 then
-		echo "You Are Not Adult "
+		echo "You Can Vote "
 	else
-		echo "You Are Adult "
-		fi
+		echo "You Can Not Vote"
+fi
 

@@ -457,3 +457,81 @@ bash 07_StingsOps.sh
 vi 07_StingsOps.sh
 bash 07_StingsOps.sh 
 vi 07_StingsOps.sh
+/home/khaleque/MyScipts/09_Arithmetic_op.sh
+pdw
+pwd
+cd /home/khaleque/MyScipts
+cd home/khaleque/MyScipts
+ls
+bash 04_Constant_var.sh 
+bash 07_StingsOps.sh 
+ls
+bash 13_Logical_opt.sh 
+vi 13_Logical_opt.sh 
+bash 13_Logical_opt.sh 
+vi 14_forLoop.sh
+ls
+vi 14_forLoop.sh
+bash 14_forLoop.sh 
+vi 14_forLoop.sh
+bash 14_forLoop.sh 
+vi 14_forLoop.sh
+bash 14_forLoop.sh 
+vi 16_for_with_file.sh
+bash 16_for_with_file.sh 
+vi 16_for_with_file.sh
+bash 16_for_with_file.sh 
+vi 16_for_with_file.sh
+bash 16_for_with_file.sh 
+vi 17_for_With_Array.sh
+bash 17_for_With_Array.sh 
+vi 18_WhileLoop.sh
+bash 18_WhileLoop.sh 
+ipconfig
+ip
+ls
+cd MyScipts/
+ls
+vi 07_StingsOps.sh 
+bash 07_StingsOps.sh 
+vi 07_StingsOps.sh 
+bash 07_StingsOps.sh 
+vi 07_StingsOps.sh 
+bash 07_StingsOps.sh 
+vi 07_StingsOps.sh 
+bash 07_StingsOps.sh 
+vi 08_User_int.sh
+bash 08_User_int.sh 
+vi 08_User_int.sh
+bash 08_User_int.sh 
+vi 08_User_int.sh
+bash 08_User_int.sh 
+vi 08_User_int.sh
+bash 08_User_int.sh 
+vi 09_Arithmetic_op.sh
+bash 09
+bash 09_Arithmetic_op.sh 
+vi 09_Arithmetic_op.sh
+bash 09_Arithmetic_op.sh 
+vi 09_Arithmetic_op.sh
+bash 09_Arithmetic_op.sh 
+vi 09_Arithmetic_op.sh
+bash 09_Arithmetic_op.sh 
+vi 10_Condition.sh
+bash 10
+bash 10_Condition.sh 
+vi 10_Condition.sh
+bash 10_Condition.sh 
+vi 10_Condition.sh
+bash 10_Condition.sh 
+vi 10_Condition.sh
+bash 10_Condition.sh 
+vi 10_Condition.sh
+bash 10_Condition.sh 
+cp  10_Condition.sh 11_elif.sh
+vi 11_elif.sh 
+bash 11_elif.sh 
+vi 12_case_Demo.sh 
+bash 12_case_Demo.sh 
+vi 13_Logical_opt.sh 
+bash 13_Logical_opt.sh 
