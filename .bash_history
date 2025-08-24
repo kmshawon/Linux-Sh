@@ -535,3 +535,8 @@ vi 12_case_Demo.sh
 bash 12_case_Demo.sh 
 vi 13_Logical_opt.sh 
 bash 13_Logical_opt.sh 
+ls
+git push master Day4
+ls
+cd MyScipts/
+git push master Day4

@@ -1,0 +1,43 @@
+00_Project_Calculator.sh
+01_basic.sh
+02_comment.sh
+03_vardemo.sh
+04_Constant_var.sh
+05_arrays.sh
+06_keyvalue.sh
+07_StingsOps.sh
+08_User_int.sh
+09_Arithmetic_op.sh
+10_Condition.sh
+11_elif.sh
+12_case_Demo.sh
+13_Logical_opt.sh
+14_forLoop.sh
+16_for_with_file.sh
+17_for_With_Array.sh
+18_WhileLoop.sh
+19_UntillLoop.sh
+20_infiniteLoop.sh
+21_WhileWithFile.sh
+23_while_with_Csv.sh
+24_functionDEMO.sh
+25_Function_with_Arg.sh
+26_Argument_Passing.sh
+27_Shifting_Argument.sh
+28_Break.sh
+29_continue.sh
+30_Status_check.sh
+31_File_Exist_Check.sh
+32_Dice.sh
+33_UID.sh
+34_Redirection.sh
+Test.csv
+allfile.txt
+names.txt
+/home/khaleque/MyScipts
+Khaleque
+Sat Aug 23 04:17:42 +06 2025
+                              bash 34_Redirection.sh
+khaleque@Khaleque:~/MyScipts$ pwd >> allfile.txt
+khaleque@Khaleque:~/MyScipts$ hostname >> allfile.txt
+khaleque@Khaleque:~/MyScipts$ date >> allfile.txt
