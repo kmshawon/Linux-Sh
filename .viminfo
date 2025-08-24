@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1755465585,,"wq"
+|2,0,1756055321,,"wq"
 :wqw
 |2,0,1755450239,,"wqw"
 :WQ
@@ -63,36 +63,52 @@
 |3,1,36,0,1,0,1754942353,"r"
 
 # File marks:
-'0  11  0  ~/MyScipts/18_WhileLoop.sh
-|4,48,11,0,1755465585,"~/MyScipts/18_WhileLoop.sh"
-'1  7  25  ~/MyScipts/17_for_With_Array.sh
-|4,49,7,25,1755465241,"~/MyScipts/17_for_With_Array.sh"
-'2  5  5  ~/MyScipts/16_for_with_file.sh
-|4,50,5,5,1755464586,"~/MyScipts/16_for_with_file.sh"
-'3  3  36  ~/MyScipts/16_for_with_file.sh
-|4,51,3,36,1755464503,"~/MyScipts/16_for_with_file.sh"
+'0  5  30  ~/MyScipts/36_Logger.sh
+|4,48,5,30,1756055321,"~/MyScipts/36_Logger.sh"
+'1  11  0  ~/MyScipts/18_WhileLoop.sh
+|4,49,11,0,1755465585,"~/MyScipts/18_WhileLoop.sh"
+'2  7  25  ~/MyScipts/17_for_With_Array.sh
+|4,50,7,25,1755465241,"~/MyScipts/17_for_With_Array.sh"
+'3  5  5  ~/MyScipts/16_for_with_file.sh
+|4,51,5,5,1755464586,"~/MyScipts/16_for_with_file.sh"
 '4  3  36  ~/MyScipts/16_for_with_file.sh
 |4,52,3,36,1755464503,"~/MyScipts/16_for_with_file.sh"
-'5  5  60  ~/MyScipts/16_for_with_file.sh
-|4,53,5,60,1755464481,"~/MyScipts/16_for_with_file.sh"
+'5  3  36  ~/MyScipts/16_for_with_file.sh
+|4,53,3,36,1755464503,"~/MyScipts/16_for_with_file.sh"
 '6  5  60  ~/MyScipts/16_for_with_file.sh
 |4,54,5,60,1755464481,"~/MyScipts/16_for_with_file.sh"
 '7  5  60  ~/MyScipts/16_for_with_file.sh
 |4,55,5,60,1755464481,"~/MyScipts/16_for_with_file.sh"
-'8  11  0  ~/MyScipts/16_for_with_file.sh
-|4,56,11,0,1755463695,"~/MyScipts/16_for_with_file.sh"
+'8  5  60  ~/MyScipts/16_for_with_file.sh
+|4,56,5,60,1755464481,"~/MyScipts/16_for_with_file.sh"
 '9  11  0  ~/MyScipts/16_for_with_file.sh
 |4,57,11,0,1755463695,"~/MyScipts/16_for_with_file.sh"
 
 # Jumplist (newest first):
+-'  5  30  ~/MyScipts/36_Logger.sh
+|4,39,5,30,1756055321,"~/MyScipts/36_Logger.sh"
+-'  1  0  ~/MyScipts/36_Logger.sh
+|4,39,1,0,1756055239,"~/MyScipts/36_Logger.sh"
 -'  11  0  ~/MyScipts/18_WhileLoop.sh
 |4,39,11,0,1755465585,"~/MyScipts/18_WhileLoop.sh"
+-'  11  0  ~/MyScipts/18_WhileLoop.sh
+|4,39,11,0,1755465585,"~/MyScipts/18_WhileLoop.sh"
+-'  1  0  ~/MyScipts/18_WhileLoop.sh
+|4,39,1,0,1755465431,"~/MyScipts/18_WhileLoop.sh"
 -'  1  0  ~/MyScipts/18_WhileLoop.sh
 |4,39,1,0,1755465431,"~/MyScipts/18_WhileLoop.sh"
 -'  7  25  ~/MyScipts/17_for_With_Array.sh
 |4,39,7,25,1755465241,"~/MyScipts/17_for_With_Array.sh"
 -'  7  25  ~/MyScipts/17_for_With_Array.sh
 |4,39,7,25,1755465241,"~/MyScipts/17_for_With_Array.sh"
+-'  7  25  ~/MyScipts/17_for_With_Array.sh
+|4,39,7,25,1755465241,"~/MyScipts/17_for_With_Array.sh"
+-'  7  25  ~/MyScipts/17_for_With_Array.sh
+|4,39,7,25,1755465241,"~/MyScipts/17_for_With_Array.sh"
+-'  1  0  ~/MyScipts/17_for_With_Array.sh
+|4,39,1,0,1755464877,"~/MyScipts/17_for_With_Array.sh"
+-'  1  0  ~/MyScipts/17_for_With_Array.sh
+|4,39,1,0,1755464877,"~/MyScipts/17_for_With_Array.sh"
 -'  1  0  ~/MyScipts/17_for_With_Array.sh
 |4,39,1,0,1755464877,"~/MyScipts/17_for_With_Array.sh"
 -'  1  0  ~/MyScipts/17_for_With_Array.sh
@@ -105,6 +121,22 @@
 |4,39,5,5,1755464586,"~/MyScipts/16_for_with_file.sh"
 -'  5  5  ~/MyScipts/16_for_with_file.sh
 |4,39,5,5,1755464586,"~/MyScipts/16_for_with_file.sh"
+-'  5  5  ~/MyScipts/16_for_with_file.sh
+|4,39,5,5,1755464586,"~/MyScipts/16_for_with_file.sh"
+-'  5  5  ~/MyScipts/16_for_with_file.sh
+|4,39,5,5,1755464586,"~/MyScipts/16_for_with_file.sh"
+-'  5  5  ~/MyScipts/16_for_with_file.sh
+|4,39,5,5,1755464586,"~/MyScipts/16_for_with_file.sh"
+-'  5  5  ~/MyScipts/16_for_with_file.sh
+|4,39,5,5,1755464586,"~/MyScipts/16_for_with_file.sh"
+-'  3  36  ~/MyScipts/16_for_with_file.sh
+|4,39,3,36,1755464552,"~/MyScipts/16_for_with_file.sh"
+-'  3  36  ~/MyScipts/16_for_with_file.sh
+|4,39,3,36,1755464552,"~/MyScipts/16_for_with_file.sh"
+-'  3  36  ~/MyScipts/16_for_with_file.sh
+|4,39,3,36,1755464552,"~/MyScipts/16_for_with_file.sh"
+-'  3  36  ~/MyScipts/16_for_with_file.sh
+|4,39,3,36,1755464552,"~/MyScipts/16_for_with_file.sh"
 -'  3  36  ~/MyScipts/16_for_with_file.sh
 |4,39,3,36,1755464552,"~/MyScipts/16_for_with_file.sh"
 -'  3  36  ~/MyScipts/16_for_with_file.sh
@@ -121,6 +153,14 @@
 |4,39,3,36,1755464503,"~/MyScipts/16_for_with_file.sh"
 -'  3  36  ~/MyScipts/16_for_with_file.sh
 |4,39,3,36,1755464503,"~/MyScipts/16_for_with_file.sh"
+-'  3  36  ~/MyScipts/16_for_with_file.sh
+|4,39,3,36,1755464503,"~/MyScipts/16_for_with_file.sh"
+-'  3  36  ~/MyScipts/16_for_with_file.sh
+|4,39,3,36,1755464503,"~/MyScipts/16_for_with_file.sh"
+-'  3  36  ~/MyScipts/16_for_with_file.sh
+|4,39,3,36,1755464503,"~/MyScipts/16_for_with_file.sh"
+-'  3  36  ~/MyScipts/16_for_with_file.sh
+|4,39,3,36,1755464503,"~/MyScipts/16_for_with_file.sh"
 -'  5  60  ~/MyScipts/16_for_with_file.sh
 |4,39,5,60,1755464483,"~/MyScipts/16_for_with_file.sh"
 -'  5  60  ~/MyScipts/16_for_with_file.sh
@@ -129,6 +169,22 @@
 |4,39,5,60,1755464483,"~/MyScipts/16_for_with_file.sh"
 -'  5  60  ~/MyScipts/16_for_with_file.sh
 |4,39,5,60,1755464483,"~/MyScipts/16_for_with_file.sh"
+-'  5  60  ~/MyScipts/16_for_with_file.sh
+|4,39,5,60,1755464483,"~/MyScipts/16_for_with_file.sh"
+-'  5  60  ~/MyScipts/16_for_with_file.sh
+|4,39,5,60,1755464483,"~/MyScipts/16_for_with_file.sh"
+-'  5  60  ~/MyScipts/16_for_with_file.sh
+|4,39,5,60,1755464483,"~/MyScipts/16_for_with_file.sh"
+-'  5  60  ~/MyScipts/16_for_with_file.sh
+|4,39,5,60,1755464483,"~/MyScipts/16_for_with_file.sh"
+-'  5  60  ~/MyScipts/16_for_with_file.sh
+|4,39,5,60,1755464481,"~/MyScipts/16_for_with_file.sh"
+-'  5  60  ~/MyScipts/16_for_with_file.sh
+|4,39,5,60,1755464481,"~/MyScipts/16_for_with_file.sh"
+-'  5  60  ~/MyScipts/16_for_with_file.sh
+|4,39,5,60,1755464481,"~/MyScipts/16_for_with_file.sh"
+-'  5  60  ~/MyScipts/16_for_with_file.sh
+|4,39,5,60,1755464481,"~/MyScipts/16_for_with_file.sh"
 -'  5  60  ~/MyScipts/16_for_with_file.sh
 |4,39,5,60,1755464481,"~/MyScipts/16_for_with_file.sh"
 -'  5  60  ~/MyScipts/16_for_with_file.sh
@@ -161,6 +217,38 @@
 |4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
 -'  11  0  ~/MyScipts/16_for_with_file.sh
 |4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755464435,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755463695,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755463695,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755463695,"~/MyScipts/16_for_with_file.sh"
+-'  11  0  ~/MyScipts/16_for_with_file.sh
+|4,39,11,0,1755463695,"~/MyScipts/16_for_with_file.sh"
 -'  11  0  ~/MyScipts/16_for_with_file.sh
 |4,39,11,0,1755463695,"~/MyScipts/16_for_with_file.sh"
 -'  11  0  ~/MyScipts/16_for_with_file.sh
@@ -197,96 +285,15 @@
 |4,39,1,0,1755463448,"~/MyScipts/16_for_with_file.sh"
 -'  1  0  ~/MyScipts/16_for_with_file.sh
 |4,39,1,0,1755463448,"~/MyScipts/16_for_with_file.sh"
--'  1  0  ~/MyScipts/16_for_with_file.sh
-|4,39,1,0,1755463448,"~/MyScipts/16_for_with_file.sh"
--'  1  0  ~/MyScipts/16_for_with_file.sh
-|4,39,1,0,1755463448,"~/MyScipts/16_for_with_file.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
--'  5  8  ~/MyScipts/14_forLoop.sh
-|4,39,5,8,1755463298,"~/MyScipts/14_forLoop.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/MyScipts/36_Logger.sh
+	*	1756055318	0
+	"	5	30
+	^	5	31
+	.	5	30
+	+	5	30
 
 > ~/MyScipts/18_WhileLoop.sh
 	*	1755465581	0

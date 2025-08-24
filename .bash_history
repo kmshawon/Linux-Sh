@@ -545,3 +545,57 @@ curl https://github.com\
 curl https://github.com
 git config --global core.autocrlf input
 git config --global core.autocrlf true
+ls
+cd MyScipts/
+vi 36_Logger.sh
+sudo less/var/log/messages
+sudo less /var/log/messages
+bash 36_Logger.sh 
+sudo less /var/log/messages
+sudo less/var/log/messages
+sudo less /var/log/messages
+sudo cat /var/log/messages
+sudo journalctl
+sudo cat /var/log/messages
+sudo less /var/log/messages
+sudo -s
+ls
+cat MyScipts/
+cd MyScipts/
+cat nohup.out 
+chmod +x *
+ls
+cat nohup.out 
+sudo cat nohup.out 
+date
+at 00:25
+sudo apt install at
+at 00:28
+sudo apt update
+sudo apt install at
+ping -c 4 google.com
+sudo systemctl restart NetworkManager
+at 1:30 AM
+sudo apt install at
+ping -c 4 8.8.8.8
+ip a
+ping -c 4 8.8.8.8
+sudo apt install at
+at 1:10 AM
+sudo apt install at
+at 1:10 AM
+atq
+ls
+atq
+ls
+at 1:14 AM
+at 1:15 AM
+atq
+ls
+ls -l
+git remote add origin https://github.com/kmshawon/Linux-Sh.git
+git push -u origin master
+shawonisrock3
+git push -u origin master
+git remote set-url origin https://github.com/kmshawon/Linux-Sh.git
+git push -u origin master

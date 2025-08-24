@@ -2,6 +2,7 @@
 
 read  -p "Which Site You Want Check ?" site
 
+#DevNull
 ping -c 1 $site &> /dev/null
 #sleep 10s
 #cd /root &> /dev/null No Output
