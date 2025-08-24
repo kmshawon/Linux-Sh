@@ -540,3 +540,8 @@ git push master Day4
 ls
 cd MyScipts/
 git push master Day4
+ping -c 4 google.com
+curl https://github.com\
+curl https://github.com
+git config --global core.autocrlf input
+git config --global core.autocrlf true
